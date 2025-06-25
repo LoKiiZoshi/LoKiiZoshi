@@ -19,7 +19,7 @@
 
 
 
-<h5 align="center">My GitHub Summary</h5>
+<h6>My GitHub Summary</h6>
 
 <table>
   <tr>
