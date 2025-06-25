@@ -1,5 +1,5 @@
 
-<h2 align="center">💖 My GitHub Summary (Refined Pink Style)</h2>
+<h2 align="center">💖 My GitHub Summary</h2>
 
 <table>
   <tr>
