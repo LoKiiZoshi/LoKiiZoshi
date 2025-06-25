@@ -1,13 +1,9 @@
 <h1 align="center">✨ Welcome to My GitHub</h1>
-
-<p align="center" style="color:#ff69b4; font-weight:500; font-size:17px; line-height:1.6;">
+<p align="center" style="color:#ff69b4; font-weight:500; font-size:16px; line-height:1.8;">
   <strong style="font-size:20px;">Full Stack Developer | AI Enthusiast | Tech Explorer</strong><br>
   Specializing in <strong>Django</strong>, <strong>Spring Boot</strong>, AI tools, and scalable web applications.<br>
-  Passionate about clean code, innovation, and open-source collaboration.
-</p>
-
-<p style="color:#ff69b4; font-size:16px; line-height:1.8; font-weight:500;">
-  👋🏻 I'm a <strong>Full Stack Developer</strong> with a love for clean, efficient code.<br>
+  Passionate about clean code, innovation, and open-source collaboration.<br><br>
+  👋🏽 I'm a <strong>Full Stack Developer</strong> with a love for clean, efficient code.<br>
   🤖 I'm an <strong>AI enthusiast</strong>, passionate about building intelligent web applications.<br>
   📚 I'm a <strong>lifelong learner</strong>, always exploring new tech and sharing knowledge.<br>
   🌍 I'm an <strong>open-source contributor</strong>, collaborating with global communities.<br>
@@ -15,6 +11,7 @@
   🎨 I'm both a <strong>frontend artist</strong> and a <strong>backend engineer</strong>.<br>
   🇳🇵 I'm proudly based in <strong>Nepal</strong>.
 </p>
+
 
 
 
