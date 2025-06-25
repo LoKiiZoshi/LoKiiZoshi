@@ -8,6 +8,19 @@
 </p>
 
 
+<h2 align="left" style="color:#ff69b4;">About Me</h2>
+
+<p style="color:#ff69b4; font-size:16px; line-height:1.8; font-weight:500;">
+  👋🏽 I'm a <strong>Full Stack Developer</strong> with a love for clean, efficient code.<br>
+  🤖 I'm an <strong>AI enthusiast</strong>, passionate about building intelligent web applications.<br>
+  📚 I'm a <strong>lifelong learner</strong>, always exploring new tech and sharing knowledge.<br>
+  🌍 I'm an <strong>open-source contributor</strong>, collaborating with global communities.<br>
+  🛠️ I'm an <strong>innovator</strong>, blending logic and creativity in every project.<br>
+  🎨 I'm both a <strong>frontend artist</strong> and a <strong>backend engineer</strong>.<br>
+  🇳🇵 I'm proudly based in <strong>Nepal</strong>.
+</p>
+
+
 
 
 <h2 align="center">My GitHub Summary</h2>
