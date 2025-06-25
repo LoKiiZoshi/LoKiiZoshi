@@ -1,9 +1,7 @@
-## ✨ My GitHub Summary Cards
+## 🔥 My GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoKiiZoshi&theme=github_dark)
+![Nitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoKiiZoshi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoKiiZoshi&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKiiZoshi&layout=compact&theme=radical)
 
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoKiiZoshi&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoKiiZoshi&theme=github_dark&utcOffset=5.75)
+![GitHub Streak](https://streak-stats.demolab.com?user=LoKiiZoshi&theme=radical&border_radius=10)
