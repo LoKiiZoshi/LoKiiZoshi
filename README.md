@@ -46,7 +46,7 @@
 </table>
 
 
-![Profile views](https://img.shields.io/badge/Profile%20views-11110-ff69b4)
+![Profile views](https://img.shields.io/badge/Profile%20views-10410-ff69b4)
 
 
 
