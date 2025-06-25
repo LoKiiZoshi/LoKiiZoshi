@@ -1,14 +1,12 @@
-<h1 align="center">
-  <img src="https://your-url.com/pink-wave.png" width="32" alt="👋" />
-  Welcome to My GitHub
-</h1>
+<h1 align="center">✨ Welcome to My GitHub</h1>
 
 
-<p align="center">
-  <strong>Full Stack Developer | AI Enthusiast | Tech Explorer</strong><br>
-  Specializing in Django, Spring Boot, AI tools, and scalable web applications.<br>
+<p align="center" style="color:#ff69b4; font-weight:500; font-size:17px; line-height:1.6;">
+  <strong style="font-size:20px;">Full Stack Developer | AI Enthusiast | Tech Explorer</strong><br>
+  Specializing in <strong>Django</strong>, <strong>Spring Boot</strong>, AI tools, and scalable web applications.<br>
   Passionate about clean code, innovation, and open-source collaboration.
 </p>
+
 
 
 
