@@ -46,6 +46,7 @@
 </table>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=lokendrajoshi&color=ff69b4&label=Profile%20views)
+![Profile views](https://img.shields.io/badge/Profile%20views-10439-ff69b4)
+
 
 
