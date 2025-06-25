@@ -1,44 +1,16 @@
-<h1 align="center">👋🏽 Welcome to My GitHub</h1>
+<h1 align="center">
+  <img src="https://your-url.com/pink-wave.png" width="32" alt="👋" />
+  Welcome to My GitHub
+</h1>
+
 
 <p align="center">
-  <strong>Full Stack Developer</strong><br>
-  Expert in Python (Django), Java (Spring Boot), HTML, CSS, JavaScript<br>
-  Skilled in AI, Databases (SQL & NoSQL), and Cloud Integration<br>
-  Passionate about building scalable and innovative web applications
+  <strong>Full Stack Developer | AI Enthusiast | Tech Explorer</strong><br>
+  Specializing in Django, Spring Boot, AI tools, and scalable web applications.<br>
+  Passionate about clean code, innovation, and open-source collaboration.
 </p>
 
----
 
-## About Me
-
-- Professional full stack developer with a passion for clean, efficient code  
-- Enthusiastic about building AI-powered web applications  
-- Lifelong learner committed to continuous growth and knowledge sharing  
-- Active collaborator in global open-source communities  
-- Dedicated to innovation through thoughtful code and design  
-- Skilled at blending logic and creativity in both frontend and backend development  
-- Based in Nepal 🇳🇵  
-
----
-
-## 🎯 Professional Mission Statement
-
-> **"Empowering people through technology and lifelong learning."**
-
----
-
-## My Tech Stack
-
-| Category          | Technologies                                   |
-|-------------------|------------------------------------------------|
-| 🧠 Languages      | Python, Java, JavaScript, HTML, CSS            |
-| ⚙️ Frameworks     | Django, FastAPI, Spring Boot                    |
-| 💾 Databases      | PostgreSQL, MySQL, SQLite, MongoDB              |
-| 🤖 AI Tools       | HuggingFace, OpenAI, TensorFlow                  |
-| 🌐 Frontend       | Bootstrap, Tailwind CSS, React Basics            |
-| 🔧 Tools & DevOps | Git, Docker, GitHub Actions, VSCode             |
-
----
 
 <h2 align="center">My GitHub Summary</h2>
 
