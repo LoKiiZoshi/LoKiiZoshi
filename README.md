@@ -1,13 +1,27 @@
-## 🔥 My GitHub Stats
+<!-- GitHub Profile Summary Cards Layout (Clean Grid Style) -->
 
-![Nitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoKiiZoshi&show_icons=true&theme=radical)
+<h2 align="center">📊 My GitHub Summary</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKiiZoshi&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LoKiiZoshi&theme=radical&border_radius=10)
-## 📈 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LoKiiZoshi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/LoKiiZoshi/LoKiiZoshi/blob/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoKiiZoshi&theme=vue" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoKiiZoshi&theme=vue" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoKiiZoshi&theme=vue" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoKiiZoshi&theme=vue" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoKiiZoshi&theme=vue&utcOffset=5.75" width="100%"/>
+    </td>
+  </tr>
+</table>
