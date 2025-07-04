@@ -21,22 +21,19 @@
 
 <h6>My GitHub Summary</h6>
 
-<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoKiiZoshi&theme=radical" width="100%" />
+</p>
 
-<!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoKiiZoshi&theme=radical" width="100%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoKiiZoshi&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoKiiZoshi&theme=radical" width="49%" />
+</p>
 
-<!-- Repos Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoKiiZoshi&theme=radical" width="49%" />
-
-<!-- Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoKiiZoshi&theme=radical" width="49%" />
-
-<!-- GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoKiiZoshi&theme=radical" width="49%" />
-
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoKiiZoshi&theme=radical&utcOffset=5.75" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoKiiZoshi&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoKiiZoshi&theme=radical&utcOffset=5.75" width="49%" />
+</p>
 
 
 ![Profile views](https://img.shields.io/badge/Profile%20views-10410-ff69b4)
