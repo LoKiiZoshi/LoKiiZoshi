@@ -10,7 +10,7 @@
    🇳🇵 I'm proudly based in <strong>Nepal</strong>.
 </p>
 
-</p>
+</p>   
 
 
 
