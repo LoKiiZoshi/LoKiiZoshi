@@ -17,7 +17,7 @@
 
 
 
-
+/*
 
 <h6>My GitHub Summary</h6>
 
@@ -36,7 +36,7 @@
 </p>
 
 
-![Profile views](https://img.shields.io/badge/Profile%20views-10410-ff69b4)
+![Profile views](https://img.shields.io/badge/Profile%20views-10410-ff69b4)*/
 
 
 
