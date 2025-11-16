@@ -1,5 +1,5 @@
 <h4>Welcome</h4>
-<p style="color:#ff69b4; font-weight:500; font-size:8px; line-height:1.8; max-width:800px; margin:auto; text-align:center;">
+<p style="color:#ff69b4; font-weight:500; font-size:4px; line-height:1.8; max-width:800px; margin:auto; text-align:center;">
   👋🏻 I'm a <strong>Back End Developer</strong> with expertise in <strong>Python</strong>, <strong>Django</strong>, <strong>Java</strong>, and <strong>Spring Boot</strong>.<br>
   🤖 I'm an <strong>AI enthusiast</strong> passionate about building intelligent and scalable web applications.<br>
   🚀 I'm a <strong>tech explorer</strong> constantly learning new tools and technologies.<br>
