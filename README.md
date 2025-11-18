@@ -1,7 +1,6 @@
-<h5>Hey there 👋</h5>
-<p style="color:#ff69b4; font-size:11px; line-height:1.7; max-width:720px; margin:20px auto; text-align:center; font-weight:300;">
-  Back-end craftsman • <strong>Python/Django</strong> & <strong>Java/Spring Boot</strong><br>
-  AI enthusiast • Building smart, scalable systems<br>
-  Open-source believer • Frontend capable • Always learning<br>
-  <strong>Nepal 🇳🇵</strong>
+<h5>Yo! 👋🔥</h5>
+<p style="color:#ff69b4; font-size:11px; line-height:1.8; text-align:center;">
+  Backend @ Python/Django/Java/Spring Boot<br>
+  AI tinkerer 🤖 • Scalable web magic ✨<br>
+  Open source lover • Learning 24×7 • Nepal 🇳🇵
 </p>
