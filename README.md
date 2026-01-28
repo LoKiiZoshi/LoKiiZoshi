@@ -3,7 +3,7 @@
   👋🏻 I'm a <strong>Back End Developer</strong> with expertise in <strong>Python</strong>, <strong>Django</strong>, <strong>Java</strong>, and <strong>Spring Boot</strong>.<br>
   🤖 I'm an <strong>AI enthusiast</strong> passionate about building intelligent and scalable web applications.<br>
   🚀 I'm a <strong>tech explorer</strong> constantly learning new tools and technologies.<br> 
-  🌐 I'm an <strong>open-source contributor</strong>, collaborating with global communities.<br> 
+  🌐 I'm an <strong>open-source contributor</strong>, collaborating with global communities.<br>
   ⚙️ I'm an <strong>innovator</strong>, blending logic and creativity in every project.<br>
   🎨 I'm both a <strong>frontend artist</strong> and a <strong>backend engineer</strong>.<br>
    🇳🇵 I'm proudly based in <strong>Nepal</strong>.
